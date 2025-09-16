@@ -57,7 +57,7 @@ Build a platform where artisans can upload and manage their digital artwork (pai
 1. Clone the repository
 2. Install dependencies in backend and frontend folders
 3. Set up MySQL database and .env files
-4. Run backend and frontend servers
+4. Run backend and frontend servers.
 
 ---
 This project is a template for building a digital art marketplace with user interaction and admin moderation.
